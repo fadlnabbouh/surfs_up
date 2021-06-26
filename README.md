@@ -6,7 +6,8 @@ The purpose of this analysis was to retrieve temperature information in Oahu for
 
 ## Results 
 
-The results of the analysis for June and December can be seen in the following images: 
+The results of the analysis for June and December can be seen in the following images:  
+
 June:  
 
 ![june_statistics](https://github.com/fadlnabbouh/surfs_up/blob/main/Resources/june_statistics.png)  
