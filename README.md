@@ -6,11 +6,15 @@ The purpose of this analysis was to retrieve temperature information in Oahu for
 
 ## Results 
 
-The results of the analysis for June and December can be seen in the following images:\n 
-June:\n 
-![june_statistics](https://github.com/fadlnabbouh/surfs_up/blob/main/Resources/june_statistics.png)\n
-December:\n 
-![december_statistics](https://github.com/fadlnabbouh/surfs_up/blob/main/Resources/december_statistics.png)\n
+The results of the analysis for June and December can be seen in the following images: 
+June:  
+
+![june_statistics](https://github.com/fadlnabbouh/surfs_up/blob/main/Resources/june_statistics.png)  
+
+December:  
+
+![december_statistics](https://github.com/fadlnabbouh/surfs_up/blob/main/Resources/december_statistics.png)  
+
 
 Three key differences between June and December are: 
 - The average temperature in June is higher than December. June has an average temperature of 74.9 degrees farenheit, and a median of 75 degrees. December's mean temperature is around 71.0 degrees farenheit, with a median of 71 degrees. June is approximately 4 degrees warmer than December, although this difference is not significantly large.
